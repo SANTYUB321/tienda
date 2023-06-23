@@ -1,12 +1,13 @@
 .wrapper{
     margin: auto;
     width: 90vw;
-    min-height: 100vw;
+    min-height: 110vh;
     background-color: antiquewhite;
+    text-align: center;
 }
 .titulo{
-    color: blue;
-
+    color: black;
+    text-align: center;
 }
 .card{
     width: 30%;
@@ -14,4 +15,5 @@
 }
 .card-image{
     width: 100%;
+    height: 50%;
 }
